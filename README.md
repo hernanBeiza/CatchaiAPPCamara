@@ -1,6 +1,7 @@
 # CatchaiAPP
 ## Bienvenidos
-Aquí está la implementación de la librería AnimatedGifEncoder realizada por Les dejo aquí mis ejemplos de las clases de Android que hemos tenido en la UGM con el profesor Andrés Muñoz  **¡Ojalá les sirvan!**
+Aquí está la implementación de la librería AnimatedGifEncoder realizada por el gran **Nick Badal https://github.com/nbadal/android-gif-encoder** 
+**¡Ojalá te sirva!**
 
 ## Índice
 ### Pendientes
